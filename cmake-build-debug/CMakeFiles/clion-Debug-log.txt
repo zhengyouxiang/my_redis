@@ -1,0 +1,8 @@
+/Applications/MyC.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/MyC.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/zhengyouxiang/dev/data/redis-5.0.8-cmake-in-clion -B /Users/zhengyouxiang/dev/data/redis-5.0.8-cmake-in-clion/cmake-build-debug
+-- Host is: Darwin-22.5.0. Build target is: Darwin-22.5.0
+-- Project root directory is: /Users/zhengyouxiang/dev/data/redis-5.0.8-cmake-in-clion
+-- Generating release.h...
+#define REDIS_GIT_SHA1 "9994315d"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/zhengyouxiang/dev/data/redis-5.0.8-cmake-in-clion/cmake-build-debug
